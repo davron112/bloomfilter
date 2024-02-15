@@ -12,8 +12,8 @@ import (
 	"time"
 
 	"github.com/krakendio/bloomfilter/v2"
-	bbloomfilter "github.com/krakendio/bloomfilter/v2/bloomfilter"
-	"github.com/krakendio/bloomfilter/v2/testutils"
+	bbloomfilter "github.com/davron112/bloomfilter/v2/bloomfilter"
+	"github.com/davron112/bloomfilter/v2/testutils"
 )
 
 func TestRotate_Union_ok(t *testing.T) {

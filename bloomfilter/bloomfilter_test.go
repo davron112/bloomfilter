@@ -7,7 +7,7 @@ import (
 	"testing"
 
 	"github.com/krakendio/bloomfilter/v2"
-	"github.com/krakendio/bloomfilter/v2/testutils"
+	"github.com/davron112/bloomfilter/v2/testutils"
 )
 
 func TestBloomfilter(t *testing.T) {

@@ -14,7 +14,7 @@ import (
 	"time"
 
 	"github.com/krakendio/bloomfilter/v2"
-	bbloomfilter "github.com/krakendio/bloomfilter/v2/bloomfilter"
+	bbloomfilter "github.com/davron112/bloomfilter/v2/bloomfilter"
 )
 
 // New creates a new sliding set of 3 bloomfilters

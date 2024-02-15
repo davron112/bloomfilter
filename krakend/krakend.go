@@ -8,10 +8,10 @@ import (
 	"net/http"
 
 	"github.com/krakendio/bloomfilter/v2"
-	bf_rpc "github.com/krakendio/bloomfilter/v2/rpc"
-	"github.com/krakendio/bloomfilter/v2/rpc/server"
-	"github.com/luraproject/lura/v2/config"
-	"github.com/luraproject/lura/v2/logging"
+	bf_rpc "github.com/davron112/bloomfilter/v2/rpc"
+	"github.com/davron112/bloomfilter/v2/rpc/server"
+	"github.com/davron112/lura/v2/config"
+	"github.com/davron112/lura/v2/logging"
 )
 
 // Namespace for bloomfilter

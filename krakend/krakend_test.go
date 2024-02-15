@@ -5,10 +5,10 @@ import (
 	"testing"
 
 	"github.com/krakendio/bloomfilter/v2"
-	"github.com/krakendio/bloomfilter/v2/rotate"
-	"github.com/krakendio/bloomfilter/v2/rpc"
-	gologging "github.com/krakendio/krakend-gologging/v2"
-	"github.com/luraproject/lura/v2/config"
+	"github.com/davron112/bloomfilter/v2/rotate"
+	"github.com/davron112/bloomfilter/v2/rpc"
+	gologging "github.com/davron112/krakend-gologging/v2"
+	"github.com/davron112/lura/v2/config"
 )
 
 func TestRegister_ok(t *testing.T) {

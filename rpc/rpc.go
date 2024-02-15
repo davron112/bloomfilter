@@ -5,7 +5,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/krakendio/bloomfilter/v2/rotate"
+	"github.com/davron112/bloomfilter/v2/rotate"
 )
 
 // Config type containing a sliding bloomfilter set and a port

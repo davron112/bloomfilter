@@ -7,7 +7,7 @@ import (
 	"errors"
 	"net/http"
 
-	"github.com/krakendio/bloomfilter/v2"
+	"github.com/davron112/bloomfilter/v2"
 	bf_rpc "github.com/davron112/bloomfilter/v2/rpc"
 	"github.com/davron112/bloomfilter/v2/rpc/server"
 	"github.com/davron112/lura/v2/config"

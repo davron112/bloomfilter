@@ -10,7 +10,7 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/krakendio/bloomfilter/v2"
+	"github.com/davron112/bloomfilter/v2"
 	"github.com/davron112/bloomfilter/v2/rotate"
 	"github.com/davron112/bloomfilter/v2/rpc"
 	"github.com/davron112/bloomfilter/v2/rpc/server"

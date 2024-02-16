@@ -11,7 +11,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/krakendio/bloomfilter/v2"
+	"github.com/davron112/bloomfilter/v2"
 	bbloomfilter "github.com/davron112/bloomfilter/v2/bloomfilter"
 	"github.com/davron112/bloomfilter/v2/testutils"
 )

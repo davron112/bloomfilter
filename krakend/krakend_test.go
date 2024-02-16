@@ -4,7 +4,7 @@ import (
 	"context"
 	"testing"
 
-	"github.com/krakendio/bloomfilter/v2"
+	"github.com/davron112/bloomfilter/v2"
 	"github.com/davron112/bloomfilter/v2/rotate"
 	"github.com/davron112/bloomfilter/v2/rpc"
 	gologging "github.com/davron112/krakend-gologging/v2"

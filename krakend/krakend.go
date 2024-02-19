@@ -15,7 +15,7 @@ import (
 )
 
 // Namespace for bloomfilter
-const Namespace = "github_com/devopsfaith/bloomfilter"
+const Namespace = "github_com/davron112/bloomfilter"
 
 var (
 	ErrNoConfig    = errors.New("no config for the bloomfilter")
